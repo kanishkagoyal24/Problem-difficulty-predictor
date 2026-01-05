@@ -175,7 +175,7 @@ The layout is designed for clarity and real-time feedback.
 ## 🎥 **Demo Video**
 
 📹 **Watch the project demo (2–3 min):**
-👉 [https://your-demo-video-link.com](https://your-demo-video-link.com)
+👉 https://drive.google.com/file/d/1YJwpYg16DI8_zzaSPb-b9dFs-JhK1aB4/view?usp=sharing
 
 ---
 
