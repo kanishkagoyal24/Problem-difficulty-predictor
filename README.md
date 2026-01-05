@@ -127,7 +127,7 @@ These models were chosen for deployment in the web application due to their supe
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Problem-difficulty-predictor
+git clone https://github.com/kanishkagoyal24/Problem-difficulty-predictor
 cd Problem-difficulty-predictor
 ```
 
@@ -135,8 +135,7 @@ cd Problem-difficulty-predictor
 
 ```bash
 python -m venv venv
-source venv/bin/activate     # Mac/Linux
-venv\Scripts\activate        # Windows
+venv\Scripts\activate.bat        # Windows
 pip install -r requirements.txt
 ```
 
@@ -187,9 +186,4 @@ The layout is designed for clarity and real-time feedback.
 🎓 IIT Roorkee
 💡 Interests: ML, Data Science, AI Systems
 
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
-🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
----
-
-If you want, I can help you add badges (Python version, Streamlit, license, etc.) or center the header — but this version is already clean, readable, and professional for GitHub 😄
+🔗 GitHub: https://github.com/kanishkagoyal24
